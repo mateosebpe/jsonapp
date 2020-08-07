@@ -1,0 +1,38 @@
+[
+    {
+        "Nombre": "Daniel Menendez",
+        "CI": "52637894",
+        "Edad": "56",
+        "Teléfono": "093546732"
+    },
+    {
+        "Nombre": "Eliel Mengassini",
+        "CI": "5102975",
+        "Edad": "40",
+        "Teléfono": "093768593"
+    },
+    {
+        "Nombre": "Martín Lastra",
+        "CI": "54637823",
+        "Edad": "21",
+        "Teléfono": "093275844"
+    },
+    {
+        "Nombre": "Martín Yañez",
+        "CI": "54739567",
+        "Edad": "35",
+        "Teléfono": "093208915"
+    },
+    {
+        "Nombre": "Martina Marchese",
+        "CI": "54738697",
+        "Edad": "39",
+        "Teléfono": "093657493"
+    },
+    {
+        "Nombre": "Mateo Peña",
+        "CI": "54637587",
+        "Edad": "47",
+        "Teléfono": "09309873"
+    }
+]
