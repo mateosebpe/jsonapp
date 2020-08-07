@@ -1,3 +1,4 @@
+const LIST_URL = "https://mateosebpe.github.io/jsonapp/lista.json";
 
   
   var getJSONData = function(url){
