@@ -8,11 +8,11 @@ function mostrarTrabajadores (arrayRecibido){
         htmlContentToAppend += 
         `
         <h2>` +persona.nombre+`</h2>
-        <p>`+persona.ci+`</p>
+        <p>"CI: "`+persona.ci+`</p>
         <br>
-        <p>`+persona.edad+`</p>
+        <p>"Edad: "`+persona.edad+`</p>
         <br>
-        <p>`+persona.telefono+`</p>
+        <p>"Teléfono: "`+persona.telefono+`</p>
         <hr>
         <br>
         `
